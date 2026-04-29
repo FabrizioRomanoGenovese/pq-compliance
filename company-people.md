@@ -11,6 +11,7 @@
 | **Alfonso Mancuso** | Dir. Information Security | Labcorp | ~70,000 | [linkedin.com/in/alfonsomancuso](https://www.linkedin.com/in/alfonsomancuso/) | Most senior security leader found. CISO role may be vacant — verify. |
 | **Anthony Church** | VP, CISO | Worldwide Clinical Trials | ~3,500 | [linkedin.com/in/anthonychurch](https://www.linkedin.com/in/anthonychurch/) | Mid-size CRO, recently appointed first CDIO. |
 | **Doug Mayer** | CISO | WCG | ~2,000 | [linkedin.com/in/dougmayer1](https://www.linkedin.com/in/dougmayer1/) | IRB/ethics review + patient consent data across thousands of trials. Previously CISO at Fresenius, AstraZeneca, Biogen. |
+| **TEST** | CISO | WCG | ~2,000 | [linkedin.com/in/dougmayer1](https://www.linkedin.com/in/dougmayer1/) | IRB/ethics review + patient consent data across thousands of trials. Previously CISO at Fresenius, AstraZeneca, Biogen. |
 
 
 
